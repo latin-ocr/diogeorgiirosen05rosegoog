@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diogeorgiirosen05rosegoog/diogeorgiirosen05rosegoog_0002.png"; bbox 0 0 2650 4634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 845 913 941">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 392 845 913 941">
+     <span class='ocr_line' id='line_1_1' title="bbox 392 845 913 941; baseline 0 -20"><span class='ocrx_word' id='word_1_1' title='bbox 392 846 566 933; x_wconf 64' lang='lat' dir='ltr'>{barnatu</span> <span class='ocrx_word' id='word_1_2' title='bbox 583 845 758 941; x_wconf 61' lang='lat' dir='ltr'>Bivium&gt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 776 847 913 936; x_wconf 66' lang='lat' dir='ltr'>51wa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 297 1839 1013 2001">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 297 1839 1013 2001">
+     <span class='ocr_line' id='line_1_2' title="bbox 297 1839 1013 1900; baseline 0 -2"><span class='ocrx_word' id='word_1_4' title='bbox 297 1839 698 1899; x_wconf 79' lang='lat' dir='ltr'>ANDOVER-HARVARD</span> <span class='ocrx_word' id='word_1_5' title='bbox 719 1839 1013 1900; x_wconf 86' lang='lat' dir='ltr'>THEOLOGICAL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 572 1941 742 2001; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 572 1941 742 2001; x_wconf 83' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 460 2249 873 2510">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 460 2249 873 2510">
+     <span class='ocr_line' id='line_1_4' title="bbox 486 2249 816 2360; baseline -0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 486 2258 514 2359; x_wconf 78' lang='grc' dir='ltr'>Α</span> <span class='ocrx_word' id='word_1_8' title='bbox 548 2249 816 2360; x_wconf 65' lang='grc' dir='ltr'>ϋῖᾗῖκοΜ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 460 2408 873 2510; baseline 0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 460 2437 545 2510; x_wconf 67' lang='lat' dir='ltr'>we</span> <span class='ocrx_word' id='word_1_10' title='bbox 579 2408 782 2510; x_wconf 64' lang='lat' dir='ltr'>[mam</span> <span class='ocrx_word' id='word_1_11' title='bbox 817 2437 873 2510; x_wconf 73' lang='lat' dir='ltr'>Of</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 491 2564 845 2666">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 491 2564 845 2666">
+     <span class='ocr_line' id='line_1_6' title="bbox 491 2564 845 2666; baseline 0 -2"><span class='ocrx_word' id='word_1_12' title='bbox 491 2565 603 2666; x_wconf 70' lang='lat' dir='ltr'>[m</span> <span class='ocrx_word' id='word_1_13' title='bbox 697 2564 845 2664; x_wconf 78' lang='grc' dir='ltr'>ΑΒΒοτ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1330 4634">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1330 4634">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1330 4634; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1330 4634; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
